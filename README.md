@@ -1,19 +1,28 @@
-# HyperionDev-Capstone-Project
-In this project, I created a website to assist paramedics and other healthcare professionals in learning about critical medication and procedures required in the prehospital environment. 
-As per project instructions: 
-1) Create an HTML file called index.html. You may need to create other webpages, but this will be your homepage that acts as the landing page for your website
-2) Create at least 2 other pages (this could include pages such as “about me”, “contact details”, etc., or even different categories of your hobby, e.g.
-“starters”, “main courses” and “desserts” if you’re show-casing recipes).
-3) Within the entirety of your site, you should have the following elements:
-○ At least 5 images.
-○ At least 3 font sizes (to help differentiate sections).
-○ At least 2 external links (maybe to another website, or an email
-address).
-○ At least 1 table.
-○ At least 1 list (ordered or unordered, you can choose).
-○ At least one submit button form (possibly to subscribe to a
-newsletter — don’t worry about the functionality of this yet).
-○ At least one radio button form (e.g. you could ask a future
-subscriber what types of recipes they’d like to receive).
-○ At least one quote/testimonial
-○ At least 2 blocks (i.e text with a background).
+# HyperionDev-IFS1T15-Capstone3
+
+This is a website-in-progress for healthcare professionals to learn about various emergency medications and procedures.  
+Each medication includes information about its pharmakokinetics, indications, contraindications, dosages, side-effects and precautions for use. The procedures include step-by-step instructions and visuals on how to perform the procedure.  
+There is also a form for the user to request a copy of the tutorials. 
+
+### Installation:  
+To run this web application locally, follow these steps:
+
+1. Clone this repository to your local machine:  
+2. Open the index.html file in your web browser.
+
+### Usage:  
+Once you have the website running, you will see the main page and be able to choose to either go to the medication or procedure sections. 
+
+![Main page of  1st Pulse Training](https://user-images.githubusercontent.com/91093650/233945121-4e464f34-8683-4e38-b514-4956c296445b.png)
+![medications](https://user-images.githubusercontent.com/91093650/233945645-04c2a88f-04a4-4c17-815e-92137929975e.png)
+![procedures](https://user-images.githubusercontent.com/91093650/233945683-5afc5f62-ffe2-4e26-b11e-285a64843d2f.png)
+![download](https://user-images.githubusercontent.com/91093650/233945706-0ff028de-e1dc-449f-b1f7-99e1f5b2dedc.png)
+
+
+### Acknowledgements:
+The medications and procedures on this webpage are based on the Health Professions Council of South Africa guidelines (2018).
+
+
+### Contact:
+If you have any questions or feedback, please contact us at info@synergis.co.za
+
